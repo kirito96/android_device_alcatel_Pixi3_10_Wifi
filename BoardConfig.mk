@@ -65,7 +65,7 @@ endif
 # MTK
 BOARD_HAS_MTK_HARDWARE := true
 MTK_HARDWARE := true
-BLOCK_BASED_OTA :=false
+BLOCK_BASED_OTA := false
 
 # to be used with hardware/mediatek repo
 BOARD_HAS_MTK := true
